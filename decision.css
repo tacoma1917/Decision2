@@ -1,0 +1,51 @@
+body {
+background-color: #EEEEEE;
+}
+
+h1 {
+color: #24135F;
+font-family: Verdana;
+font-weight: bold;
+font-size: 26px;
+text-align: center;
+}
+
+#div1 {
+text-align: center;
+}
+
+#div1 {
+margin-top: 75px;
+}
+
+#input1 {
+margin-top: 10px;
+}
+
+#input2 {
+margin-top: 10px;
+}
+
+#label1 {
+color: #24135F;
+font-weight: bold;
+font-family: Verdana;
+font-size: 12px;
+}
+
+#label2 {
+color: #24135F;
+font-weight: bold;
+font-family: Verdana;
+font-size: 12px;
+}
+
+#button1 {
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+#button2 {
+margin-top: 40px;
+margin-botom: 40px;
+}
